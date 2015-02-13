@@ -22,3 +22,6 @@ check pre hooks now
 Umm... somothing wrong.
 
 ya! again message check!
+
+now i hope success my script!
+
