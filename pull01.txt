@@ -20,3 +20,5 @@ dry run check.
 check pre hooks now
 
 Umm... somothing wrong.
+
+ya! again message check!
