@@ -5,3 +5,5 @@ change a little for testing hook massage.
 this is third line to check hook msg.
 
 Ummmm! somethign anything !
+
+error code check
