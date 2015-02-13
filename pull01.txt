@@ -16,3 +16,5 @@ time check again.
 code check again.
 
 dry run check.
+
+check pre hooks now
