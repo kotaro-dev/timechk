@@ -7,3 +7,6 @@ this is third line to check hook msg.
 Ummmm! somethign anything !
 
 error code check
+
+change pre-receive hooks .
+
