@@ -1,3 +1,5 @@
+chuser sudo
+
 sleep is break or broken?
 
 yappari back thread problem.
