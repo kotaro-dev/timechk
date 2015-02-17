@@ -1,3 +1,5 @@
+try thin command
+
 inthis case is not work.
 
 time check tack
