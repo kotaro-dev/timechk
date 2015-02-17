@@ -1,3 +1,5 @@
+time check 
+
 use exec cmd to no fork prosecc.
 
 today is happy holiday!
