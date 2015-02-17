@@ -1,3 +1,5 @@
+time check tack
+
 time check 
 
 use exec cmd to no fork prosecc.
