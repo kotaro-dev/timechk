@@ -1,3 +1,5 @@
+check status
+
 check exit status
 
 hey! hey! hey!
