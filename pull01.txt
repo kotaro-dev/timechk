@@ -1,3 +1,5 @@
+check exit status
+
 hey! hey! hey!
 
 must be good!
